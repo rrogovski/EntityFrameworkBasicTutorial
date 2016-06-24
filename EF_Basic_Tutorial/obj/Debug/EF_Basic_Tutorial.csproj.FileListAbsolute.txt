@@ -1,0 +1,1 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\EF_Basic_Tutorial\EF_Basic_Tutorial\bin\Debug\EF_Basic_Tutorial.exe.config
